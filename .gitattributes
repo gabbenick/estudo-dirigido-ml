@@ -1,7 +1,0 @@
-*csv filter=lfs diff=lfs merge=lfs -text
-AMH/database.csv filter=lfs diff=lfs merge=lfs -text
-AMH/database_complementary_filter.csv filter=lfs diff=lfs merge=lfs -text
-AMH/database_arima.csv filter=lfs diff=lfs merge=lfs -text
-database.csv filter=lfs diff=lfs merge=lfs -text
-database_complementary_filter.csv filter=lfs diff=lfs merge=lfs -text
-database_arima.csv filter=lfs diff=lfs merge=lfs -text
